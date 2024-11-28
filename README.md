@@ -16,6 +16,7 @@ I am also a student at [Fiap Paulista]((https://www.fiap.com.br/)/), a renowned 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="32" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="32" alt="c logo"  />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="32" alt="mongodb logo"  />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="docker logo"  />
