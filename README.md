@@ -15,13 +15,12 @@ I'm a Back-end Developer :smile:
 I'm a 18-year-old developer and data scientist, programing since I was 16. I love to code and solve deep problems using cutting-edge tech. My main focus is on back-end development, creating applications that impact thousands of users.
 
 ## My specialties:
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="32" alt="c logo"  />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="32" alt="mongodb logo"  />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="32" alt="c logo"  /> <img src="https://cdn.simpleicons.org/mongodb/47A248" height="32" alt="mongodb logo"  />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
-
+</p>
 
 ### Backend: 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="32" alt="javascript logo"  />
