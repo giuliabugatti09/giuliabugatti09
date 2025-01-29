@@ -70,7 +70,7 @@ Olá! Eu sou Giulia, uma profissional apaixonada por inteligência artificial e 
 - [Clique aqui para conferir o projeto completo](https://github.com/giuliabugatti09/SalesAnalysisPro)
 - Alguns resultados obtidos e validação do modelo;
 <p align="center">
-  <img width="65%" height="30%" src="SalesAnalysisPro/images/Painel Interativo-Total_vendas_cliente.png" alt="Painel Interativo - Total Vendas Cliente">
+  <img width="65%" height="30%" src="https://github.com/giuliabugatti09/SalesAnalysisPro/blob/main/images/Painel%20Interativo-%20%20Total_vendas_cliente.png?raw=true" alt="Painel Interativo - Total Vendas Cliente">
 </p>
 <p align="center">
   <img width="70%" height="70%" src="SalesAnalysisPro/images/Painel Interativo- Total_vendas_produto.png" alt="Painel Interativo Vendas">
