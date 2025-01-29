@@ -49,7 +49,6 @@ I'm a 18-year-old developer and data scientist, programing since I was 16. I lov
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliabugatti09&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/giuliabugatti09)
 
-
 # Portfolio-Ciencia-de-Dados
 
 # Bem-vindo ao meu portfólio de ciência de dados!
@@ -71,25 +70,28 @@ Olá! Eu sou Giulia, uma profissional apaixonada por inteligência artificial e 
 - [Clique aqui para conferir o projeto completo](https://github.com/giuliabugatti09/SalesAnalysisPro)
 - Alguns resultados obtidos e validação do modelo;
 <p align="center">
-  <img width="65%" height="30%" src="SalesAnalysisPro/images/Painel Interativo- Total_vendas_cliente.png at main · giuliabugatti09/SalesAnalysisPro · GitHub">
+  <img width="65%" height="30%" src="SalesAnalysisPro/images/Painel_Interativo_Total_vendas_cliente.png" alt="Painel Interativo - Total Vendas Cliente">
 </p>
 <p align="center">
-  <img width="70%" height="70%" src="SalesAnalysisPro/images/Painel_Interativo_vendas.png at main · giuliabugatti09/SalesAnalysisPro · GitHub">
+  <img width="70%" height="70%" src="SalesAnalysisPro/images/Painel_Interativo_vendas.png" alt="Painel Interativo Vendas">
 </p>
 
-### [**sentiment-analysis-comments: Projeto de análise de sentimentos em comentários utilizando NLP e machine learning**](https://github.com/giuliabugatti09/sentiment-analysis-comments)
+
+
+### [**Sentiment-analysis-comments: Projeto de análise de sentimentos em comentários utilizando NLP e machine learning**](https://github.com/giuliabugatti09/sentiment-analysis-comments)
 
 - **Descrição:** Este projeto tem como objetivo realizar análise de sentimentos em resenhas de filmes utilizando o algoritmo Naive Bayes. O modelo foi treinado com o dataset ImDb disponibilizado pelo NTLK, e classifica as resenhas como positivas ou negativas
 - **Tecnologias utilizadas:** Python, NTLK,  Scikit-Learn,  Pandas, Matplotlib & Seaborn, Ploty
 - [Clique aqui para conferir o projeto completo](https://github.com/giuliabugatti09/sentiment-analysis-comments)
 - Alguns resultados obtidos e validação do modelo;
-
 <p align="center"> 
-	<img src="sentiment-analysis-comments/images/Exemplo-entrada e saída.png" alt="Exemplo de Entrada e Saída" width="70%"> 
+  <img src="sentiment-analysis-comments/images/Exemplo_entrada_saida.png" alt="Exemplo de Entrada e Saída" width="70%"> 
 </p>
 <p align="center">
-  <img width="70%" height="70%" src="sentiment-analysis-comments/images/Métricas de Desempenho.png at main · giuliabugatti09/sentiment-analysis-comments · GitHub">
+  <img width="70%" height="70%" src="sentiment-analysis-comments/images/Métricas_de_Desempenho.png" alt="Métricas de Desempenho">
 </p>
+
+
 
 
 ## Experiência Profissional
