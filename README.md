@@ -49,6 +49,7 @@ I'm a 18-year-old developer and data scientist, programing since I was 16. I lov
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliabugatti09&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/giuliabugatti09)
 
+
 # Portfolio-Ciencia-de-Dados
 
 # Bem-vindo ao meu portfólio de ciência de dados!
@@ -73,7 +74,7 @@ Olá! Eu sou Giulia, uma profissional apaixonada por inteligência artificial e 
   <img width="65%" height="30%" src="https://github.com/giuliabugatti09/SalesAnalysisPro/blob/main/images/Painel%20Interativo-%20%20Total_vendas_cliente.png?raw=true" alt="Painel Interativo - Total Vendas Cliente">
 </p>
 <p align="center">
-  <img width="70%" height="70%" src="https://github.com/giuliabugatti09/SalesAnalysisPro/blob/main/images/Painel_Interativo_Total_vendas_produto.png?raw=true" alt="Painel Interativo - Total Vendas Produto">
+  <img width="70%" height="70%" src="https://github.com/giuliabugatti09/SalesAnalysisPro/blob/main/images/Painel%20Interativo-%20Total_vendas_produto.png" alt="Painel Interativo - Total Vendas Produto">
 </p>
 
 
@@ -84,10 +85,10 @@ Olá! Eu sou Giulia, uma profissional apaixonada por inteligência artificial e 
 - [Clique aqui para conferir o projeto completo](https://github.com/giuliabugatti09/sentiment-analysis-comments)
 - Alguns resultados obtidos e validação do modelo;
 <p align="center"> 
-  <img src="https://github.com/giuliabugatti09/sentiment-analysis-comments/blob/main/images/Exemplo_entrada_saida.png?raw=true" alt="Exemplo de Entrada e Saída" width="70%"> 
+  <img src="https://github.com/giuliabugatti09/sentiment-analysis-comments/blob/main/images/Exemplo-entrada%20e%20sai%CC%81da.png" alt="Exemplo de Entrada e Saída" width="70%"> 
 </p>
 <p align="center">
-  <img width="70%" height="70%" src="https://github.com/giuliabugatti09/sentiment-analysis-comments/blob/main/images/Métricas_de_Desempenho.png?raw=true" alt="Métricas de Desempenho">
+  <img width="70%" height="70%" src="https://github.com/giuliabugatti09/sentiment-analysis-comments/blob/main/images/Me%CC%81tricas%20de%20Desempenho.png" alt="Métricas de Desempenho">
 </p>
 
 ## Experiência Profissional
