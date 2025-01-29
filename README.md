@@ -70,10 +70,10 @@ Olá! Eu sou Giulia, uma profissional apaixonada por inteligência artificial e 
 - [Clique aqui para conferir o projeto completo](https://github.com/giuliabugatti09/SalesAnalysisPro)
 - Alguns resultados obtidos e validação do modelo;
 <p align="center">
-  <img width="65%" height="30%" src="SalesAnalysisPro/images/Painel_Interativo_Total_vendas_cliente.png" alt="Painel Interativo - Total Vendas Cliente">
+  <img width="65%" height="30%" src="SalesAnalysisPro/images/Painel Interativo-Total_vendas_cliente.png" alt="Painel Interativo - Total Vendas Cliente">
 </p>
 <p align="center">
-  <img width="70%" height="70%" src="SalesAnalysisPro/images/Painel_Interativo_vendas.png" alt="Painel Interativo Vendas">
+  <img width="70%" height="70%" src="SalesAnalysisPro/images/Painel Interativo- Total_vendas_produto.png" alt="Painel Interativo Vendas">
 </p>
 
 
@@ -85,10 +85,10 @@ Olá! Eu sou Giulia, uma profissional apaixonada por inteligência artificial e 
 - [Clique aqui para conferir o projeto completo](https://github.com/giuliabugatti09/sentiment-analysis-comments)
 - Alguns resultados obtidos e validação do modelo;
 <p align="center"> 
-  <img src="sentiment-analysis-comments/images/Exemplo_entrada_saida.png" alt="Exemplo de Entrada e Saída" width="70%"> 
+  <img src="sentiment-analysis-comments/images/Exemplo-entrada e saída.png" alt="Exemplo de Entrada e Saída" width="70%"> 
 </p>
 <p align="center">
-  <img width="70%" height="70%" src="sentiment-analysis-comments/images/Métricas_de_Desempenho.png" alt="Métricas de Desempenho">
+  <img width="70%" height="70%" src="sentiment-analysis-comments/images/Métricas de Desempenho.png" alt="Métricas de Desempenho">
 </p>
 
 
