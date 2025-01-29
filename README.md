@@ -84,8 +84,8 @@ Olá! Eu sou Giulia, uma profissional apaixonada por inteligência artificial e 
 - [Clique aqui para conferir o projeto completo](https://github.com/giuliabugatti09/sentiment-analysis-comments)
 - Alguns resultados obtidos e validação do modelo;
 
-<p align="center">
-  <img width="65%" height="30%" src="sentiment-analysis-comments/images/Exemplo-entrada e saída.png at main · giuliabugatti09/sentiment-analysis-comments · GitHub">
+<p align="center"> 
+	<img src="sentiment-analysis-comments/images/Exemplo-entrada e saída.png" alt="Exemplo de Entrada e Saída" width="70%"> 
 </p>
 <p align="center">
   <img width="70%" height="70%" src="sentiment-analysis-comments/images/Métricas de Desempenho.png at main · giuliabugatti09/sentiment-analysis-comments · GitHub">
