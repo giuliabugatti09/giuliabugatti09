@@ -73,9 +73,8 @@ Olá! Eu sou Giulia, uma profissional apaixonada por inteligência artificial e 
   <img width="65%" height="30%" src="https://github.com/giuliabugatti09/SalesAnalysisPro/blob/main/images/Painel%20Interativo-%20%20Total_vendas_cliente.png?raw=true" alt="Painel Interativo - Total Vendas Cliente">
 </p>
 <p align="center">
-  <img width="70%" height="70%" src="SalesAnalysisPro/images/Painel Interativo- Total_vendas_produto.png" alt="Painel Interativo Vendas">
+  <img width="70%" height="70%" src="https://github.com/giuliabugatti09/SalesAnalysisPro/blob/main/images/Painel_Interativo_Total_vendas_produto.png?raw=true" alt="Painel Interativo - Total Vendas Produto">
 </p>
-
 
 
 ### [**Sentiment-analysis-comments: Projeto de análise de sentimentos em comentários utilizando NLP e machine learning**](https://github.com/giuliabugatti09/sentiment-analysis-comments)
@@ -85,14 +84,11 @@ Olá! Eu sou Giulia, uma profissional apaixonada por inteligência artificial e 
 - [Clique aqui para conferir o projeto completo](https://github.com/giuliabugatti09/sentiment-analysis-comments)
 - Alguns resultados obtidos e validação do modelo;
 <p align="center"> 
-  <img width="images/Exemplo-entrada e saída.png" width="70%"> 
+  <img src="https://github.com/giuliabugatti09/sentiment-analysis-comments/blob/main/images/Exemplo_entrada_saida.png?raw=true" alt="Exemplo de Entrada e Saída" width="70%"> 
 </p>
 <p align="center">
-  <img width="70%" height="70%" src="sentiment-analysis-comments/images/Métricas de Desempenho.png" alt="Métricas de Desempenho">
+  <img width="70%" height="70%" src="https://github.com/giuliabugatti09/sentiment-analysis-comments/blob/main/images/Métricas_de_Desempenho.png?raw=true" alt="Métricas de Desempenho">
 </p>
-
-
-
 
 ## Experiência Profissional
 ##Bradesco
