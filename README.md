@@ -35,7 +35,7 @@ I'm a 18-year-old developer and data scientist, programing since I was 16. I lov
   ## [**Data Science Portfolio**](https://github.com/giuliabugatti09/portfolio/) :game_die:
 
 - Check out my data science portfolio. There, you will find solved business cases involving machine learning classification, regression, and clustering, as well as exploratory data analysis and other projects within the data environment.
-- [Click here to see my data science portfolio (EN)](https://github.com/allmeidaapedro/Data-Science-Porfolio)
+- [Click here to see my data science portfolio (EN)](https://github.com/giuliabugatti09/portfolio--EN)
 - [Click here to see my data science portfolio (PT)](https://github.com/giuliabugatti09/portfolio/)
 
 <p align="center">
