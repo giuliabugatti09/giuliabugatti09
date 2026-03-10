@@ -61,10 +61,8 @@ A collection of business-driven data science projects, including:
 
 🌍 Available in:
 
-* [Portfolio (EN)](https://github.com/giuliabugatti09/portfolio--EN)
-* [Portfólio (PT)](https://github.com/giuliabugatti09/portfolio/)
-
-📊 Dashboards (Power BI & Tableau) coming soon!
+* [Portfolio (EN)](https://github.com/giuliabugatti09/portfolio)
+* [Portfólio (PT)](https://github.com/giuliabugatti09/portfolio--PT/)
 
 <p align="center">
   <img src="https://github.com/giuliabugatti09/portfolio/blob/main/images/Black%20Modern%20Personal%20LinkedIn%20Banner%20(1).png" alt="Portfolio Banner">
@@ -74,7 +72,7 @@ A collection of business-driven data science projects, including:
 
 ## 📫 Let's Connect
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/giuliabugatti/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/giulia-bugatti-fonseca-226955267/)
 * 📂 [GitHub Portfolio](https://github.com/giuliabugatti09/portfolio/)
 
 ---
