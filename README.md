@@ -4,8 +4,6 @@
 
 I'm **Giulia Bugatti**, an aspiring **Data Scientist & Data Analyst** with a strong foundation in **Python, SQL, Machine Learning, and Business Intelligence**.
 
-💼 Currently, I work at **Banco Bradesco** with **software development and process automation**, gaining real-world experience in system building and database management.
-
 🎓 I'm also studying **Artificial Intelligence at FIAP**, where I explore **Machine Learning, Deep Learning, NLP, and Generative AI**.
 
 🌟 My goal is to leverage data to **solve business problems, create impactful dashboards, and build predictive models** that generate real value.
